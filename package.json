@@ -1,0 +1,15 @@
+{
+  "name": "lexoboite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:TH-EAU/lexoboite.git",
+  "author": "NICOLAS Théau <theau.nicolas@esiea.fr>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
